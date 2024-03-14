@@ -1,4 +1,4 @@
-# Título do Projeto: TCC - Curso de Jogos Digitais
+# Título do Projeto: Sorrows of Seasons
 
 ## Descrição:
 Este repositório contém os arquivos relacionados ao Trabalho de Conclusão de Curso (TCC) desenvolvido como parte do curso de Jogos Digitais. O projeto consiste na implementação de [descreva brevemente o tipo de jogo ou a mecânica principal].
