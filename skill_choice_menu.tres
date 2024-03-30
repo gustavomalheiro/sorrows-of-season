@@ -1,0 +1,23 @@
+[gd_resource type="Theme" load_steps=6 format=3 uid="uid://cf30dh5ckboaf"]
+
+[ext_resource type="FontFile" uid="uid://bydiufm6rtvbp" path="res://fonts/at01.ttf" id="1_2lx2d"]
+
+[sub_resource type="StyleBoxEmpty" id="StyleBoxEmpty_vtmt3"]
+
+[sub_resource type="StyleBoxEmpty" id="StyleBoxEmpty_3hteb"]
+
+[sub_resource type="StyleBoxEmpty" id="StyleBoxEmpty_fp8rx"]
+
+[sub_resource type="StyleBoxEmpty" id="StyleBoxEmpty_6vgn8"]
+
+[resource]
+Button/colors/font_color = Color(0.14902, 0.14902, 0.14902, 1)
+Button/colors/font_focus_color = Color(1, 1, 0, 1)
+Button/colors/font_hover_color = Color(1, 1, 0, 1)
+Button/colors/font_hover_pressed_color = Color(1, 1, 0, 1)
+Button/colors/font_pressed_color = Color(1, 0.541176, 0, 1)
+Button/fonts/font = ExtResource("1_2lx2d")
+Button/styles/focus = SubResource("StyleBoxEmpty_vtmt3")
+Button/styles/hover = SubResource("StyleBoxEmpty_3hteb")
+Button/styles/normal = SubResource("StyleBoxEmpty_fp8rx")
+Button/styles/pressed = SubResource("StyleBoxEmpty_6vgn8")
